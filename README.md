@@ -2,7 +2,7 @@
 - 👀 I’m interested in THINGS, STUFF,...
 - 🌱 I’m currently learning bash scripting.
 - 💞️ I’m looking to collaborate on whatever, hit me up :)
-- 📫 How to reach me 
+- 📫 Ping @Layer 8 Problem in discord.gg/sc9dv8P
 
 <!---
 Shadowphoenix/Shadowphoenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
